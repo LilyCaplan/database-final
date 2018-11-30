@@ -1,0 +1,2 @@
+# database-final
+For our final project we have made an interactive map with floium on Jupyter notebooks to showcase intersections of demographics, income, and school performance in New York City
